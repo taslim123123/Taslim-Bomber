@@ -12,4 +12,4 @@ cd Taslim-Bomber
 
 ls
 
-python Ip.py
+python SMS BOMBING.py
