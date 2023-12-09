@@ -10,6 +10,4 @@ git clone https://github.com/taslim123123/Taslim-Bomber.git
 
 cd Taslim-Bomber
 
-ls
-
-python SMS BOMBING.py
+python 'SMS BOMBING.py'
