@@ -1,6 +1,3 @@
-# Decompile by Maris (Tools By Kapten-Kazoo)
-# Time Success decompile : 2023-11-18 01:49:10.327170
-# RAMON AHMED
 import requests, os
 
 os.system("clear")
